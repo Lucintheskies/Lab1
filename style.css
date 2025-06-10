@@ -1,0 +1,38 @@
+body{
+    background-color: #adb0a0;
+}
+
+.cabecera{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+ul{
+   padding: 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+li{
+ 
+ list-style: none;
+ font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+margin-block-end: 0;
+margin-block-start: 0;
+
+}
+
+.titulo{
+   
+    justify-items: center;
+}
+.subtitulo{
+    margin-block-start: 0;
+    color:black;
+    text-shadow: 2px 2px 4px;
+    
+}
